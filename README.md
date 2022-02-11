@@ -1,2 +1,2 @@
-# LauncX
+# LaunchX
 Solucion de Katas
